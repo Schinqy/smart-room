@@ -3,9 +3,9 @@
 #include <Arduino_JSON.h>
 
 const char* ssid = "Sch!";
-const char* password = "passc0d4";
+const char* password = "passxxxx";
 
-const char* serverName = "http://upenyu.000webhostapp.com/esp-outputs-action.php?action=outputs_state&board=1";
+const char* serverName = "http://xxxx.com/esp-outputs-action.php?action=outputs_state&board=1";
 
 String outputsState;
 
